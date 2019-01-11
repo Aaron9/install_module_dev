@@ -20,4 +20,4 @@ define('APP_FAVICON_PATH', '_APP_BASE_FAVICON_PATH_');
 define('FILE_TYPES', 'jpg,png,jpeg');
 define('MAX_FILE_SIZE_KB', 1024);
 
-define('APP_DEV', 'Aishwary Ujjwal');
+define('APP_DEV', '_DEV_');
