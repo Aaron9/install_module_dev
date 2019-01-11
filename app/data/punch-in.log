@@ -1,0 +1,191 @@
+[26-Dec-2018 15:50:18 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[26-Dec-2018 15:50:21 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[26-Dec-2018 15:50:30 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[26-Dec-2018 15:50:33 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[26-Dec-2018 15:51:00 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[26-Dec-2018 15:51:07 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[26-Dec-2018 15:51:12 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[26-Dec-2018 15:51:24 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[26-Dec-2018 15:51:27 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[26-Dec-2018 15:51:52 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[26-Dec-2018 15:53:47 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[26-Dec-2018 15:54:46 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[26-Dec-2018 15:55:05 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[26-Dec-2018 15:55:08 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[26-Dec-2018 15:55:22 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[26-Dec-2018 15:55:32 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 134
+[26-Dec-2018 15:55:32 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp7\htdocs\punch-in\core\data.php on line 136
+[26-Dec-2018 16:32:01 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 134
+[26-Dec-2018 16:32:01 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp7\htdocs\punch-in\core\data.php on line 136
+[26-Dec-2018 16:59:02 Asia/Calcutta] PHP Warning:  getimagesize(): Filename cannot be empty in C:\xampp7\htdocs\punch-in\core\jQueryImage.php on line 98
+[26-Dec-2018 17:01:15 Asia/Calcutta] PHP Warning:  getimagesize(): Filename cannot be empty in C:\xampp7\htdocs\punch-in\core\jQueryImage.php on line 98
+[26-Dec-2018 18:14:25 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1596
+[26-Dec-2018 18:14:36 Asia/Calcutta] PHP Warning:  getimagesize(): Filename cannot be empty in C:\xampp7\htdocs\punch-in\core\jQueryImage.php on line 98
+[26-Dec-2018 18:15:20 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1596
+[26-Dec-2018 18:27:52 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1596
+[26-Dec-2018 18:28:18 Asia/Calcutta] PHP Warning:  Use of undefined constant P - assumed 'P' (this will throw an Error in a future version of PHP) in C:\xampp7\htdocs\punch-in\core\data.php on line 1548
+[27-Dec-2018 10:05:59 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1596
+[27-Dec-2018 11:03:40 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1596
+[27-Dec-2018 11:25:39 Asia/Calcutta] PHP Warning:  include(C:\xampp7\htdocs\punch-in/core//admin/profile/index.php): failed to open stream: No such file or directory in C:\xampp7\htdocs\punch-in\app\index.php on line 28
+[27-Dec-2018 11:25:39 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp7\htdocs\punch-in/core//admin/profile/index.php' for inclusion (include_path='C:\xampp7\php\PEAR') in C:\xampp7\htdocs\punch-in\app\index.php on line 28
+[27-Dec-2018 11:26:13 Asia/Calcutta] PHP Warning:  include(C:\xampp7\htdocs\punch-in/core//manager/profile/index.php): failed to open stream: No such file or directory in C:\xampp7\htdocs\punch-in\app\index.php on line 28
+[27-Dec-2018 11:26:13 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp7\htdocs\punch-in/core//manager/profile/index.php' for inclusion (include_path='C:\xampp7\php\PEAR') in C:\xampp7\htdocs\punch-in\app\index.php on line 28
+[27-Dec-2018 11:26:31 Asia/Calcutta] PHP Warning:  include(C:\xampp7\htdocs\punch-in/core/manager/modals/modals.php): failed to open stream: No such file or directory in C:\xampp7\htdocs\punch-in\core\manager\addTL\index.php on line 45
+[27-Dec-2018 11:26:31 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp7\htdocs\punch-in/core/manager/modals/modals.php' for inclusion (include_path='C:\xampp7\php\PEAR') in C:\xampp7\htdocs\punch-in\core\manager\addTL\index.php on line 45
+[27-Dec-2018 11:26:59 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1596
+[27-Dec-2018 11:27:24 Asia/Calcutta] PHP Warning:  include(C:\xampp7\htdocs\punch-in/core//team_leader/profile/index.php): failed to open stream: No such file or directory in C:\xampp7\htdocs\punch-in\app\index.php on line 28
+[27-Dec-2018 11:27:24 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp7\htdocs\punch-in/core//team_leader/profile/index.php' for inclusion (include_path='C:\xampp7\php\PEAR') in C:\xampp7\htdocs\punch-in\app\index.php on line 28
+[27-Dec-2018 11:32:03 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1596
+[27-Dec-2018 11:36:04 Asia/Calcutta] PHP Warning:  getimagesize(): Filename cannot be empty in C:\xampp7\htdocs\punch-in\core\jQueryImage.php on line 98
+[27-Dec-2018 11:36:35 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp7\htdocs\punch-in\core\user\task\index.php on line 62
+[27-Dec-2018 11:37:00 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp7\htdocs\punch-in\core\user\task\index.php on line 62
+[27-Dec-2018 11:37:15 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp7\htdocs\punch-in\core\user\task\index.php on line 62
+[27-Dec-2018 11:38:02 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp7\htdocs\punch-in\core\user\task\index.php on line 62
+[27-Dec-2018 11:38:18 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp7\htdocs\punch-in\core\user\task\index.php on line 62
+[27-Dec-2018 11:50:39 Asia/Calcutta] PHP Warning:  include(C:\xampp7\htdocs\punch-in/core/manager/modals/modals.php): failed to open stream: No such file or directory in C:\xampp7\htdocs\punch-in\core\manager\addTL\index.php on line 45
+[27-Dec-2018 11:50:39 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp7\htdocs\punch-in/core/manager/modals/modals.php' for inclusion (include_path='C:\xampp7\php\PEAR') in C:\xampp7\htdocs\punch-in\core\manager\addTL\index.php on line 45
+[27-Dec-2018 11:50:51 Asia/Calcutta] PHP Warning:  include(C:\xampp7\htdocs\punch-in/core/manager/modals/modals.php): failed to open stream: No such file or directory in C:\xampp7\htdocs\punch-in\core\manager\addTL\index.php on line 45
+[27-Dec-2018 11:50:51 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp7\htdocs\punch-in/core/manager/modals/modals.php' for inclusion (include_path='C:\xampp7\php\PEAR') in C:\xampp7\htdocs\punch-in\core\manager\addTL\index.php on line 45
+[27-Dec-2018 11:52:28 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1596
+[27-Dec-2018 12:55:44 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[27-Dec-2018 13:34:40 Asia/Calcutta] PHP Warning:  include(C:\xampp7\htdocs\punch-in/core/manager/modals/modals.php): failed to open stream: No such file or directory in C:\xampp7\htdocs\punch-in\core\manager\addTL\index.php on line 45
+[27-Dec-2018 13:34:40 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp7\htdocs\punch-in/core/manager/modals/modals.php' for inclusion (include_path='C:\xampp7\php\PEAR') in C:\xampp7\htdocs\punch-in\core\manager\addTL\index.php on line 45
+[27-Dec-2018 13:36:20 Asia/Calcutta] PHP Warning:  include(C:\xampp7\htdocs\punch-in/core/manager/modals/modals.php): failed to open stream: No such file or directory in C:\xampp7\htdocs\punch-in\core\manager\addTL\index.php on line 45
+[27-Dec-2018 13:36:20 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp7\htdocs\punch-in/core/manager/modals/modals.php' for inclusion (include_path='C:\xampp7\php\PEAR') in C:\xampp7\htdocs\punch-in\core\manager\addTL\index.php on line 45
+[27-Dec-2018 13:37:24 Asia/Calcutta] PHP Warning:  include(C:\xampp7\htdocs\punch-in/core/manager/modals/modals.php): failed to open stream: No such file or directory in C:\xampp7\htdocs\punch-in\core\manager\addTL\index.php on line 45
+[27-Dec-2018 13:37:24 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp7\htdocs\punch-in/core/manager/modals/modals.php' for inclusion (include_path='C:\xampp7\php\PEAR') in C:\xampp7\htdocs\punch-in\core\manager\addTL\index.php on line 45
+[29-Dec-2018 15:38:04 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 15:38:05 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 15:38:26 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 15:38:26 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 15:38:33 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 15:38:37 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 15:38:37 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 15:38:41 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 15:38:47 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 15:38:47 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 15:38:47 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 15:38:52 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 15:38:53 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 15:38:53 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 15:38:57 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 15:38:59 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 15:39:02 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 15:39:05 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 15:39:05 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1596
+[29-Dec-2018 15:39:09 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 15:39:10 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1596
+[29-Dec-2018 15:39:11 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 15:39:11 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1596
+[29-Dec-2018 15:39:12 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 15:39:12 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1596
+[29-Dec-2018 15:39:13 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 15:39:13 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1596
+[29-Dec-2018 15:39:13 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 15:39:13 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1596
+[29-Dec-2018 15:39:15 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 15:39:17 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 15:39:26 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 15:40:05 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 15:40:10 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 15:40:10 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1596
+[29-Dec-2018 15:55:49 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 15:56:51 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 15:58:06 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 15:58:30 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 16:00:21 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 16:00:21 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1596
+[29-Dec-2018 16:00:40 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 16:00:40 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1596
+[29-Dec-2018 16:00:52 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 16:00:57 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 16:01:00 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[29-Dec-2018 16:43:40 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[02-Jan-2019 11:46:35 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\xampp7\htdocs\punch-in\core\data.php on line 1854
+[02-Jan-2019 11:46:45 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\xampp7\htdocs\punch-in\core\data.php on line 1854
+[02-Jan-2019 11:46:52 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in C:\xampp7\htdocs\punch-in\core\data.php on line 1854
+[02-Jan-2019 11:47:46 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1867
+[02-Jan-2019 11:48:05 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1867
+[02-Jan-2019 11:48:19 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1867
+[02-Jan-2019 11:48:40 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1867
+[02-Jan-2019 11:48:46 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1867
+[02-Jan-2019 11:49:05 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1867
+[02-Jan-2019 11:49:13 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1867
+[02-Jan-2019 11:53:13 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1867
+[02-Jan-2019 11:54:04 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1867
+[02-Jan-2019 11:54:26 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1867
+[02-Jan-2019 11:59:09 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1867
+[02-Jan-2019 13:41:30 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\lib\include\CustomFunction.php on line 464
+[02-Jan-2019 13:49:38 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\lib\include\CustomFunction.php on line 471
+[02-Jan-2019 13:49:38 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\lib\include\CustomFunction.php on line 471
+[02-Jan-2019 14:41:59 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in C:\xampp7\htdocs\punch-in\core\admin\dashboard\index.php on line 138
+[02-Jan-2019 18:30:06 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[02-Jan-2019 18:30:19 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[02-Jan-2019 18:30:21 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[02-Jan-2019 18:32:11 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[02-Jan-2019 18:32:12 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[02-Jan-2019 18:32:13 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[02-Jan-2019 18:32:13 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[02-Jan-2019 18:32:14 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[02-Jan-2019 18:32:14 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[02-Jan-2019 18:32:21 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[02-Jan-2019 18:32:21 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1867
+[02-Jan-2019 18:32:25 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[02-Jan-2019 18:32:29 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[02-Jan-2019 18:32:29 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1867
+[02-Jan-2019 18:32:31 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[02-Jan-2019 18:32:31 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1867
+[02-Jan-2019 18:32:34 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[02-Jan-2019 18:32:34 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1867
+[02-Jan-2019 18:32:36 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[02-Jan-2019 18:33:39 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[02-Jan-2019 18:33:43 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[03-Jan-2019 10:03:39 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\lib\include\CustomFunction.php on line 464
+[03-Jan-2019 10:03:39 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\lib\include\CustomFunction.php on line 464
+[03-Jan-2019 10:23:11 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\lib\include\CustomFunction.php on line 464
+[03-Jan-2019 10:23:11 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\lib\include\CustomFunction.php on line 464
+[03-Jan-2019 10:43:26 Asia/Calcutta] PHP Warning:  include(C:\xampp7\htdocs\punch-in/core/human_resources/modals/EmployeeTaskModal.php): failed to open stream: No such file or directory in C:\xampp7\htdocs\punch-in\core\human_resources\clockin\index.php on line 45
+[03-Jan-2019 10:43:26 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp7\htdocs\punch-in/core/human_resources/modals/EmployeeTaskModal.php' for inclusion (include_path='C:\xampp7\php\PEAR') in C:\xampp7\htdocs\punch-in\core\human_resources\clockin\index.php on line 45
+[03-Jan-2019 10:43:29 Asia/Calcutta] PHP Warning:  include(C:\xampp7\htdocs\punch-in/core/human_resources/modals/EmployeeTaskModal.php): failed to open stream: No such file or directory in C:\xampp7\htdocs\punch-in\core\human_resources\clockout\index.php on line 45
+[03-Jan-2019 10:43:29 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp7\htdocs\punch-in/core/human_resources/modals/EmployeeTaskModal.php' for inclusion (include_path='C:\xampp7\php\PEAR') in C:\xampp7\htdocs\punch-in\core\human_resources\clockout\index.php on line 45
+[03-Jan-2019 10:43:32 Asia/Calcutta] PHP Warning:  include(C:\xampp7\htdocs\punch-in/core/human_resources/modals/EmployeeTaskModal.php): failed to open stream: No such file or directory in C:\xampp7\htdocs\punch-in\core\human_resources\attendance\index.php on line 45
+[03-Jan-2019 10:43:32 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp7\htdocs\punch-in/core/human_resources/modals/EmployeeTaskModal.php' for inclusion (include_path='C:\xampp7\php\PEAR') in C:\xampp7\htdocs\punch-in\core\human_resources\attendance\index.php on line 45
+[03-Jan-2019 10:43:34 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1596
+[03-Jan-2019 10:43:38 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1596
+[03-Jan-2019 10:43:51 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1596
+[03-Jan-2019 10:54:28 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1867
+[05-Jan-2019 17:36:16 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[05-Jan-2019 17:36:17 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[05-Jan-2019 17:36:21 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[05-Jan-2019 17:36:26 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[05-Jan-2019 17:36:26 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1867
+[05-Jan-2019 17:36:35 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[05-Jan-2019 17:36:35 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1867
+[05-Jan-2019 17:36:38 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[05-Jan-2019 17:36:38 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1867
+[05-Jan-2019 17:36:41 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[05-Jan-2019 17:36:41 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1867
+[05-Jan-2019 17:36:42 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[05-Jan-2019 17:36:42 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1867
+[05-Jan-2019 17:36:42 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[05-Jan-2019 17:36:42 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1867
+[05-Jan-2019 17:36:49 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[05-Jan-2019 17:37:08 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[05-Jan-2019 17:37:38 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[05-Jan-2019 17:37:48 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[05-Jan-2019 17:38:07 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[05-Jan-2019 17:38:09 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[05-Jan-2019 17:38:09 Asia/Calcutta] PHP Warning:  include(C:\xampp7\htdocs\punch-in/core/human_resources/modals/EmployeeTaskModal.php): failed to open stream: No such file or directory in C:\xampp7\htdocs\punch-in\core\human_resources\attendance\index.php on line 45
+[05-Jan-2019 17:38:09 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp7\htdocs\punch-in/core/human_resources/modals/EmployeeTaskModal.php' for inclusion (include_path='C:\xampp7\php\PEAR') in C:\xampp7\htdocs\punch-in\core\human_resources\attendance\index.php on line 45
+[05-Jan-2019 17:38:12 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[05-Jan-2019 17:38:12 Asia/Calcutta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp7\htdocs\punch-in\core\data.php on line 1596
+[05-Jan-2019 17:38:15 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[05-Jan-2019 17:38:15 Asia/Calcutta] PHP Warning:  include(C:\xampp7\htdocs\punch-in/core/human_resources/modals/EmployeeTaskModal.php): failed to open stream: No such file or directory in C:\xampp7\htdocs\punch-in\core\human_resources\clockin\index.php on line 45
+[05-Jan-2019 17:38:15 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp7\htdocs\punch-in/core/human_resources/modals/EmployeeTaskModal.php' for inclusion (include_path='C:\xampp7\php\PEAR') in C:\xampp7\htdocs\punch-in\core\human_resources\clockin\index.php on line 45
+[05-Jan-2019 17:38:33 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[05-Jan-2019 17:38:33 Asia/Calcutta] PHP Warning:  include(C:\xampp7\htdocs\punch-in/core/human_resources/modals/EmployeeTaskModal.php): failed to open stream: No such file or directory in C:\xampp7\htdocs\punch-in\core\human_resources\clockout\index.php on line 45
+[05-Jan-2019 17:38:33 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp7\htdocs\punch-in/core/human_resources/modals/EmployeeTaskModal.php' for inclusion (include_path='C:\xampp7\php\PEAR') in C:\xampp7\htdocs\punch-in\core\human_resources\clockout\index.php on line 45
+[05-Jan-2019 17:38:37 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[05-Jan-2019 17:38:37 Asia/Calcutta] PHP Warning:  include(C:\xampp7\htdocs\punch-in/core/human_resources/modals/EmployeeTaskModal.php): failed to open stream: No such file or directory in C:\xampp7\htdocs\punch-in\core\human_resources\attendance\index.php on line 45
+[05-Jan-2019 17:38:37 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp7\htdocs\punch-in/core/human_resources/modals/EmployeeTaskModal.php' for inclusion (include_path='C:\xampp7\php\PEAR') in C:\xampp7\htdocs\punch-in\core\human_resources\attendance\index.php on line 45
+[05-Jan-2019 18:59:49 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17

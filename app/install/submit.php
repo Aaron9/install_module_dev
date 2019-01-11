@@ -2,8 +2,8 @@
 include dirname(__FILE__).'/config.php';
 include(CLIENT_APP_PATH.'../core/lib/adodb-5.20.13/adodb.inc.php');
 
-$isConfigFileExists = file_exists(CLIENT_APP_PATH."config.php");
-$configData = file_get_contents(CLIENT_APP_PATH."config.php");
+$isConfigFileExists = file_exists(CLIENT_APP_CONFIG_PATH."config.php");
+$configData = file_get_contents(CLIENT_APP_CONFIG_PATH."config.php");
 
 error_log("isConfigFileExists $isConfigFileExists");
 error_log("configData $configData");
@@ -12,7 +12,7 @@ $ret = array();
 
 if(!$isConfigFileExists || $configData != ""){
 	$ret["status"] = "ERROR";
-	$ret["msg"] = "You are trying to install Application on an existing installation.";
+	$ret["msg"] = "You are trying to intall ".APP_NAME." on an existing installation.";
 	echo json_encode($ret);
 	exit();
 }
@@ -45,10 +45,9 @@ if($action == "TEST_DB"){
 	$ret["status"] = "SUCCESS";
 	$ret["msg"] = "Successfully connected to the database";
 	echo json_encode($ret);
-
-}else if($action == "INS"){
-
-	$config = file_get_contents(CLIENT_APP_PATH."config.sample.php");
+}elseif ($action == "INS") {
+	
+	$config = file_get_contents(CLIENT_APP_CONFIG_PATH."config.sample.php");
 
 	if(empty($config)){
 		error_log('Sample config file is empty');
@@ -57,9 +56,6 @@ if($action == "TEST_DB"){
 		echo json_encode($ret);
 		exit();
 	}
-
-	$str = 'QWlzaHdhcnkgVWpqd2Fs';
-	$dev = base64_decode($str);
 
 	$config = str_replace("_LOG_", $_REQUEST['LOG'], $config);
 	$config = str_replace("_APP_BASE_PATH_", APP_PATH, $config);
@@ -71,12 +67,9 @@ if($action == "TEST_DB"){
 	$config = str_replace("_APP_PASSWORD_", $_REQUEST['APP_PASSWORD'], $config);
 	$config = str_replace("_APP_HOST_", $_REQUEST['APP_HOST'], $config);
 	$config = str_replace("_CLIENT_", 'app', $config);
-	$config = str_replace("_DEV_", 'app', $dev);
-
 
 	$db = NewADOConnection('mysqli');
 	$res = $db->Connect($_REQUEST["APP_HOST"], $_REQUEST["APP_USERNAME"], $_REQUEST["APP_PASSWORD"], $_REQUEST["APP_DB"]);
-
 
 	if (!$res){
 		error_log('Could not connect: ' . $db->ErrorMsg());
@@ -96,31 +89,46 @@ if($action == "TEST_DB"){
 		exit();
 	}
 
+	//Check If database available or not
+	$isDBFileExists = file_exists(CLIENT_APP_PATH."../core/scripts/".APP_ID."db.sql");
+	//$isDBMasterFileExists = file_exists(CLIENT_APP_PATH."../core/scripts/".APP_ID."_master_data.sql");
 
-	//Run create table script
-	$insql = file_get_contents(CLIENT_APP_PATH."../core/scripts/".APP_ID."db.sql");
-	$sql_list = preg_split('/;/',$insql);
-	foreach($sql_list as $sql){
-		if (preg_match('/^\s+$/', $sql) || $sql == '') { # skip empty lines
-			continue;
+	if (!$isDBFileExists) {
+		$ret["status"] = "ERROR";
+		$ret["msg"] = "Database not available at ".CLIENT_APP_PATH."../core/scripts/".APP_ID."db.sql";
+		echo json_encode($ret);
+		exit();
+	}else{
+		//Run create table script
+		$insql = file_get_contents(CLIENT_APP_PATH."../core/scripts/".APP_ID."db.sql");
+		$sql_list = preg_split('/;/',$insql);
+		foreach($sql_list as $sql){
+			if (preg_match('/^\s+$/', $sql) || $sql == '') { # skip empty lines
+				continue;
+			}
+			$db->Execute($sql);
 		}
-		$db->Execute($sql);
-	}
+    }
 
-	//Run create table script
-	$insql = file_get_contents(CLIENT_APP_PATH."../core/scripts/".APP_ID."_master_data.sql");
-	$sql_list = preg_split('/;/',$insql);
-	foreach($sql_list as $sql){
-		if (preg_match('/^\s+$/', $sql) || $sql == '') { # skip empty lines
-			continue;
-		}
-		$db->Execute($sql);
-	}
+ //    if (!$isDBMasterFileExists) {
+	// 	$ret["status"] = "ERROR";
+	// 	$ret["msg"] = "Database not available at ".CLIENT_APP_PATH."../core/scripts/".APP_ID."_master_data.sql";
+	// 	echo json_encode($ret);
+	// 	exit();
+	// }else{
 
+	//     //Run create table script
+	// 	$insql = file_get_contents(CLIENT_APP_PATH."../core/scripts/".APP_ID."_master_data.sql");
+	// 	$sql_list = preg_split('/;/',$insql);
+	// 	foreach($sql_list as $sql){
+	// 		if (preg_match('/^\s+$/', $sql) || $sql == '') { # skip empty lines
+	// 			continue;
+	// 		}
+	// 		$db->Execute($sql);
+	// 	}
+	// }
 
-	//Write config file
-
-	$file = fopen(CLIENT_APP_PATH."config.php","w");
+	$file = fopen(CLIENT_APP_CONFIG_PATH."config.php","w");
 	if($file){
 		fwrite($file,$config);
 		fclose($file);
@@ -135,4 +143,8 @@ if($action == "TEST_DB"){
 	$ret["status"] = "SUCCESS";
 	$ret["msg"] = "Successfully installed. Please rename or delete install folder";
 	echo json_encode($ret);
+
+
+//End
 }
+

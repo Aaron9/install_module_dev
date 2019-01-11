@@ -1,9 +1,8 @@
 <?php
+
 ini_set('error_log', '_LOG_');
 
-define('APP_NAME', 'Install Module');
-define('FB_URL', 'Install Module');
-define('TWITTER_URL', 'Install Module');
+define('APP_NAME', 'Punch-In');
 
 define('CLIENT_NAME', '_CLIENT_');
 define('APP_BASE_PATH', '_APP_BASE_PATH_');
@@ -17,8 +16,8 @@ define('APP_PASSWORD', '_APP_PASSWORD_');
 define('APP_HOST', '_APP_HOST_');
 define('APP_CON_STR', 'mysqli://'.APP_USERNAME.':'.APP_PASSWORD.'@'.APP_HOST.'/'.APP_DB);
 
-//file upload
+define('APP_FAVICON_PATH', '_APP_BASE_FAVICON_PATH_');
 define('FILE_TYPES', 'jpg,png,jpeg');
-define('MAX_FILE_SIZE_KB', 10 * 1024);
+define('MAX_FILE_SIZE_KB', 1024);
 
-define('DEV','_DEV_');
+define('APP_DEV', 'Aishwary Ujjwal');

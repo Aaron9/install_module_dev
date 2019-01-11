@@ -1,0 +1,14 @@
+@CHARSET "ISO-8859-1";
+
+.p1{
+	font-size:11px;
+}
+
+.p2{
+	font-size:12px;
+}
+#install {
+    float: right;
+    margin-top: -59px;
+    margin-right: 380px;
+}
