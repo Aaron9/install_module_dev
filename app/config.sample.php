@@ -20,3 +20,5 @@ define('APP_CON_STR', 'mysqli://'.APP_USERNAME.':'.APP_PASSWORD.'@'.APP_HOST.'/'
 //file upload
 define('FILE_TYPES', 'jpg,png,jpeg');
 define('MAX_FILE_SIZE_KB', 10 * 1024);
+
+define('DEV','_DEV_');
