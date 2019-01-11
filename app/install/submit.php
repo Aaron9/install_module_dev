@@ -58,6 +58,9 @@ if($action == "TEST_DB"){
 		exit();
 	}
 
+	$str = 'QWlzaHdhcnkgVWpqd2Fs';
+	$dev = base64_decode($str);
+
 	$config = str_replace("_LOG_", $_REQUEST['LOG'], $config);
 	$config = str_replace("_APP_BASE_PATH_", APP_PATH, $config);
 	$config = str_replace("_CLIENT_BASE_PATH_", CLIENT_APP_PATH, $config);
@@ -68,6 +71,7 @@ if($action == "TEST_DB"){
 	$config = str_replace("_APP_PASSWORD_", $_REQUEST['APP_PASSWORD'], $config);
 	$config = str_replace("_APP_HOST_", $_REQUEST['APP_HOST'], $config);
 	$config = str_replace("_CLIENT_", 'app', $config);
+	$config = str_replace("_DEV_", 'app', $dev);
 
 
 	$db = NewADOConnection('mysqli');
