@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i');
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i|Slabo+13px|Slabo+27px');
+
+    /*font-family: 'Open Sans', sans-serif;
+    font-family: 'Kaushan Script', cursive;
+    font-family: 'Slabo 27px', serif;
+    font-family: 'Slabo 13px', serif;*/
+
+body { 
+    font-family: 'Open Sans', sans-serif;
+}
+#primary {
+	background: #00314a;
+	height: 100vh;
+	padding: 50px;
+	padding-right: 50px;
+	text-align: center;
+	padding-right: 5vw;
+}
+#primary address {
+	font-size: 1.2rem;
+	color: #efefef;
+	position: relative;
+	margin-top: 30px;
+	padding-top: 20px;
+}
+#primary address:before {
+    height: 1px;
+    background: -webkit-linear-gradient(to right, transparent 0px, rgba(255, 255, 255, 255.09) 35%, rgba(255, 255, 255, 255.09) 70%, transparent 100%);
+    background: -moz-linear-gradient(to right, transparent 0px, rgba(255, 255, 255, 255.09) 35%, rgba(255, 255, 255, 255.09) 70%, transparent 100%);
+    background: -o-linear-gradient(to right, transparent 0px, rgba(255, 255, 255, 255.09) 35%, rgba(255, 255, 255, 255.09) 70%, transparent 100%);
+    background: linear-gradient(to right, transparent 0px, rgba(255, 255, 255, 255.09) 35%, rgba(255, 255, 255, 255.09) 70%, transparent 100%);
+    position: absolute;
+    top: -10px;
+    content: "";
+    width: 100%;
+    left: 0px;
+}
+#secondary {
+	background: #fff;
+	height: 100vh;
+}
+#wrapper {
+	background: #fff;
+	margin-left: -5vw;
+	margin-top: 7vh;
+	width: 100%;
+	height: 86vh;
+	padding: 50px;
+	padding-top: 40px;
+	text-align: center;
+	position: relative;
+}
+#wrapper:before,
+#wrapper:after {
+    height: 1px;
+    background: -webkit-linear-gradient(to right, #27262600 0px, rgba(0, 0, 0, 0.2) 5%, rgba(0, 0, 0, 0.1) 70%, #0000 100%);
+    background: -moz-linear-gradient(to right, #27262600 0px, rgba(0, 0, 0, 0.2) 5%, rgba(0, 0, 0, 0.1) 70%, #0000 100%);
+    background: -o-linear-gradient(to right, #27262600 0px, rgba(0, 0, 0, 0.2) 5%, rgba(0, 0, 0, 0.1) 70%, #0000 100%);
+    background: linear-gradient(to right, #27262600 0px, rgba(0, 0, 0, 0.2) 5%, rgba(0, 0, 0, 0.1) 70%, #0000 100%);
+    position: absolute;
+    bottom: -1px;
+    content: "";
+    width: 100%;
+    left: 0px;
+}
+#wrapper:after {
+	bottom: auto;
+	top: -1px;
+}
+ul.home-bullets li {
+	font-size: 0.9rem;
+	list-style-type: none;
+	font-weight: 600;
+	text-transform: uppercase;
+	color: rgba(0,0,0,0.5);
+}
+ul.home-bullets {
+	position: relative;
+	margin-top: 50px;
+	padding-top: 30px;
+}
+ul.home-bullets:before {
+    height: 1px;
+    /*background: -webkit-linear-gradient(to right, transparent 0px, rgba(255, 255, 255, 255.09) 35%, rgba(255, 255, 255, 255.09) 70%, transparent 100%);
+    background: -moz-linear-gradient(to right, transparent 0px, rgba(255, 255, 255, 255.09) 35%, rgba(255, 255, 255, 255.09) 70%, transparent 100%);
+    background: -o-linear-gradient(to right, transparent 0px, rgba(255, 255, 255, 255.09) 35%, rgba(255, 255, 255, 255.09) 70%, transparent 100%);*/
+    background: linear-gradient(to right, transparent 0px, #78a20e 35%, #78a20e 70%, transparent 100%);
+    position: absolute;
+    top: -10px;
+    content: "";
+    width: 100%;
+    left: 0px;
+}
+#wrapper .big-logo img {
+	width: 35vw;
+	margin-bottom: 30px;
+}
+.main-heading {
+	font-family: 'Kaushan Script', cursive;
+	font-size: 1.7rem;
+	color: #537302;
+}
+.logo {
+	margin-bottom: 50px;
+}
+p {
+    font-family: 'Slabo 13px', serif;
+	font-size: 1rem;
+	color: rgba(0,0,0,0.8);
+}
+.view-website {
+	font-size:18px;
+	letter-spacing:2px;
+	position: relative;
+	display: inline-block;
+	text-transform:uppercase;
+	color:#fff;
+	z-index:2;
+	/*padding:10px 0;*/
+	border-top:2px solid #fff;
+	border-bottom:2px solid #fff;
+	width: 230px;
+	margin-bottom: 20px;
+}
+.view-website span {
+	display: block;
+	padding:10px 0;
+	border-top:2px solid #fff;
+	border-bottom:2px solid #fff;
+}
+.view-website span:focus {
+	border:0;
+}
+.view-website:before,
+.view-website:after,
+.view-website span:before,
+.view-website span:after {
+	width: 230px;
+	content:"";
+	position:absolute;
+	top:-6px;
+	left:0;
+	width:10px;
+	height:10px;
+	background:#fff;
+}
+.view-website span:before,
+.view-website span:after {
+	top:auto;
+	bottom:-6px;
+}
+.view-website:after,
+.view-website span:after {
+	left:auto;
+	right:0;
+}
+.view-website:hover:before,
+.view-website span:hover:before {
+	left:100%;
+}
+.view-website:hover:after,
+.view-website span:hover:after {
+	right:100%; 
+}
+.view-website:before,
+.view-website:after,
+.view-website span:before,
+.view-website span:after,
+.view-website:hover:before,
+.view-website span:hover:before,
+.view-website:hover:after,
+.view-website span:hover:after {
+	-webkit-transition:all ease-out 0.3s;
+	-moz-transition:all ease-out 0.3s;
+	-o-transition:all ease-out 0.3s;
+	-ms-transition:all ease-out 0.3s;
+	transition:all ease-out 0.3s;
+}

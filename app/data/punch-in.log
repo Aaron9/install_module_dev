@@ -189,3 +189,15 @@
 [05-Jan-2019 17:38:37 Asia/Calcutta] PHP Warning:  include(C:\xampp7\htdocs\punch-in/core/human_resources/modals/EmployeeTaskModal.php): failed to open stream: No such file or directory in C:\xampp7\htdocs\punch-in\core\human_resources\attendance\index.php on line 45
 [05-Jan-2019 17:38:37 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp7\htdocs\punch-in/core/human_resources/modals/EmployeeTaskModal.php' for inclusion (include_path='C:\xampp7\php\PEAR') in C:\xampp7\htdocs\punch-in\core\human_resources\attendance\index.php on line 45
 [05-Jan-2019 18:59:49 Asia/Calcutta] PHP Warning:  SessionHandler::destroy() expects exactly 1 parameter, 0 given in C:\xampp7\htdocs\punch-in\core\lib\include\init.php on line 17
+[11-Jan-2019 16:25:52 Asia/Calcutta] Config Writable 1
+[11-Jan-2019 16:25:52 Asia/Calcutta] Config Exists 1
+[11-Jan-2019 16:26:18 Asia/Calcutta] Config Writable 1
+[11-Jan-2019 16:26:18 Asia/Calcutta] Config Exists 1
+[11-Jan-2019 16:26:24 Asia/Calcutta] Config Writable 1
+[11-Jan-2019 16:26:24 Asia/Calcutta] Config Exists 1
+[11-Jan-2019 16:27:19 Asia/Calcutta] Config Writable 1
+[11-Jan-2019 16:27:19 Asia/Calcutta] Config Exists 1
+[11-Jan-2019 16:27:21 Asia/Calcutta] Config Writable 1
+[11-Jan-2019 16:27:21 Asia/Calcutta] Config Exists 1
+[11-Jan-2019 16:27:24 Asia/Calcutta] Config Writable 1
+[11-Jan-2019 16:27:24 Asia/Calcutta] Config Exists 1
