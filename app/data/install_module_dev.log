@@ -1,0 +1,330 @@
+[21-Sep-2018 13:37:03 Europe/Berlin] Config Writable 1
+[21-Sep-2018 13:37:03 Europe/Berlin] Config Exists 1
+[21-Sep-2018 13:38:13 Europe/Berlin] Config Writable 1
+[21-Sep-2018 13:38:13 Europe/Berlin] Config Exists 1
+[21-Sep-2018 13:38:57 Europe/Berlin] Config Writable 1
+[21-Sep-2018 13:38:57 Europe/Berlin] Config Exists 1
+[21-Sep-2018 13:38:58 Europe/Berlin] Config Writable 1
+[21-Sep-2018 13:38:58 Europe/Berlin] Config Exists 1
+[21-Sep-2018 13:41:40 Europe/Berlin] Config Writable 1
+[21-Sep-2018 13:41:40 Europe/Berlin] Config Exists 1
+[21-Sep-2018 13:41:41 Europe/Berlin] Config Writable 1
+[21-Sep-2018 13:41:41 Europe/Berlin] Config Exists 1
+[21-Sep-2018 13:43:47 Europe/Berlin] Config writable 1
+[21-Sep-2018 13:43:47 Europe/Berlin] Config exists 1
+[21-Sep-2018 13:47:30 Europe/Berlin] Config Writable 1
+[21-Sep-2018 13:47:30 Europe/Berlin] Config Exists 1
+[21-Sep-2018 13:47:54 Europe/Berlin] Config Writable 1
+[21-Sep-2018 13:47:54 Europe/Berlin] Config Exists 1
+[21-Sep-2018 13:53:36 Europe/Berlin] Config Writable 1
+[21-Sep-2018 13:53:36 Europe/Berlin] Config Exists 1
+[21-Sep-2018 13:53:39 Europe/Berlin] Config Writable 1
+[21-Sep-2018 13:53:39 Europe/Berlin] Config Exists 1
+[21-Sep-2018 13:54:25 Europe/Berlin] Config Writable 1
+[21-Sep-2018 13:54:25 Europe/Berlin] Config Exists 1
+[21-Sep-2018 14:00:00 Europe/Berlin] Config Writable 1
+[21-Sep-2018 14:00:00 Europe/Berlin] Config Exists 1
+[21-Sep-2018 14:31:50 Europe/Berlin] Config Writable 1
+[21-Sep-2018 14:31:50 Europe/Berlin] Config Exists 1
+[21-Sep-2018 14:33:03 Europe/Berlin] Config Writable 1
+[21-Sep-2018 14:33:03 Europe/Berlin] Config Exists 1
+[21-Sep-2018 14:34:35 Europe/Berlin] Config Writable 1
+[21-Sep-2018 14:34:35 Europe/Berlin] Config Exists 1
+[21-Sep-2018 14:35:24 Europe/Berlin] Config Writable 1
+[21-Sep-2018 14:35:24 Europe/Berlin] Config Exists 1
+[21-Sep-2018 14:42:19 Europe/Berlin] Config Writable 1
+[21-Sep-2018 14:42:19 Europe/Berlin] Config Exists 1
+[21-Sep-2018 14:42:28 Europe/Berlin] Config Writable 1
+[21-Sep-2018 14:42:28 Europe/Berlin] Config Exists 1
+[21-Sep-2018 14:45:15 Europe/Berlin] Config Writable 1
+[21-Sep-2018 14:45:15 Europe/Berlin] Config Exists 1
+[21-Sep-2018 14:45:23 Europe/Berlin] Config Writable 1
+[21-Sep-2018 14:45:23 Europe/Berlin] Config Exists 1
+[21-Sep-2018 14:45:29 Europe/Berlin] Config Writable 1
+[21-Sep-2018 14:45:29 Europe/Berlin] Config Exists 1
+[21-Sep-2018 14:45:39 Europe/Berlin] Config Writable 1
+[21-Sep-2018 14:45:39 Europe/Berlin] Config Exists 1
+[21-Sep-2018 14:49:53 Europe/Berlin] Config Writable 1
+[21-Sep-2018 14:49:53 Europe/Berlin] Config Exists 1
+[21-Sep-2018 14:49:57 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 14:49:57 Europe/Berlin] configData 
+[21-Sep-2018 14:49:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function NewADOConnection() in C:\xampp7\htdocs\install_module_dev\app\install\submit.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp7\htdocs\install_module_dev\app\install\submit.php on line 24
+[21-Sep-2018 14:50:08 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 14:50:08 Europe/Berlin] configData 
+[21-Sep-2018 14:50:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function NewADOConnection() in C:\xampp7\htdocs\install_module_dev\app\install\submit.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp7\htdocs\install_module_dev\app\install\submit.php on line 24
+[21-Sep-2018 14:50:11 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 14:50:11 Europe/Berlin] configData 
+[21-Sep-2018 14:50:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function NewADOConnection() in C:\xampp7\htdocs\install_module_dev\app\install\submit.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp7\htdocs\install_module_dev\app\install\submit.php on line 24
+[21-Sep-2018 14:58:41 Europe/Berlin] Config Writable 1
+[21-Sep-2018 14:58:41 Europe/Berlin] Config Exists 1
+[21-Sep-2018 14:58:43 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 14:58:43 Europe/Berlin] configData 
+[21-Sep-2018 14:59:41 Europe/Berlin] Config Writable 1
+[21-Sep-2018 14:59:41 Europe/Berlin] Config Exists 1
+[21-Sep-2018 14:59:44 Europe/Berlin] Config Writable 1
+[21-Sep-2018 14:59:44 Europe/Berlin] Config Exists 1
+[21-Sep-2018 14:59:48 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 14:59:48 Europe/Berlin] configData 
+[21-Sep-2018 15:00:16 Europe/Berlin] Config Writable 1
+[21-Sep-2018 15:00:16 Europe/Berlin] Config Exists 1
+[21-Sep-2018 15:00:18 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:00:18 Europe/Berlin] configData 
+[21-Sep-2018 15:00:20 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:00:20 Europe/Berlin] configData 
+[21-Sep-2018 15:00:20 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:00:20 Europe/Berlin] configData 
+[21-Sep-2018 15:00:20 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:00:20 Europe/Berlin] configData 
+[21-Sep-2018 15:00:20 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:00:20 Europe/Berlin] configData 
+[21-Sep-2018 15:00:20 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:00:20 Europe/Berlin] configData 
+[21-Sep-2018 15:00:21 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:00:21 Europe/Berlin] configData 
+[21-Sep-2018 15:00:21 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:00:21 Europe/Berlin] configData 
+[21-Sep-2018 15:00:21 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:00:21 Europe/Berlin] configData 
+[21-Sep-2018 15:00:21 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:00:21 Europe/Berlin] configData 
+[21-Sep-2018 15:00:21 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:00:21 Europe/Berlin] configData 
+[21-Sep-2018 15:00:21 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:00:21 Europe/Berlin] configData 
+[21-Sep-2018 15:00:21 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:00:21 Europe/Berlin] configData 
+[21-Sep-2018 15:00:22 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:00:22 Europe/Berlin] configData 
+[21-Sep-2018 15:00:22 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:00:22 Europe/Berlin] configData 
+[21-Sep-2018 15:00:22 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:00:22 Europe/Berlin] configData 
+[21-Sep-2018 15:00:22 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:00:22 Europe/Berlin] configData 
+[21-Sep-2018 15:00:22 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:00:22 Europe/Berlin] configData 
+[21-Sep-2018 15:01:00 Europe/Berlin] Config Writable 1
+[21-Sep-2018 15:01:00 Europe/Berlin] Config Exists 1
+[21-Sep-2018 15:01:06 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:06 Europe/Berlin] configData 
+[21-Sep-2018 15:01:09 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:09 Europe/Berlin] configData 
+[21-Sep-2018 15:01:09 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:09 Europe/Berlin] configData 
+[21-Sep-2018 15:01:09 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:09 Europe/Berlin] configData 
+[21-Sep-2018 15:01:09 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:09 Europe/Berlin] configData 
+[21-Sep-2018 15:01:09 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:09 Europe/Berlin] configData 
+[21-Sep-2018 15:01:10 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:10 Europe/Berlin] configData 
+[21-Sep-2018 15:01:10 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:10 Europe/Berlin] configData 
+[21-Sep-2018 15:01:10 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:10 Europe/Berlin] configData 
+[21-Sep-2018 15:01:10 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:10 Europe/Berlin] configData 
+[21-Sep-2018 15:01:10 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:10 Europe/Berlin] configData 
+[21-Sep-2018 15:01:10 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:10 Europe/Berlin] configData 
+[21-Sep-2018 15:01:11 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:11 Europe/Berlin] configData 
+[21-Sep-2018 15:01:11 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:11 Europe/Berlin] configData 
+[21-Sep-2018 15:01:11 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:11 Europe/Berlin] configData 
+[21-Sep-2018 15:01:11 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:11 Europe/Berlin] configData 
+[21-Sep-2018 15:01:11 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:11 Europe/Berlin] configData 
+[21-Sep-2018 15:01:11 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:11 Europe/Berlin] configData 
+[21-Sep-2018 15:01:11 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:11 Europe/Berlin] configData 
+[21-Sep-2018 15:01:12 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:12 Europe/Berlin] configData 
+[21-Sep-2018 15:01:12 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:12 Europe/Berlin] configData 
+[21-Sep-2018 15:01:12 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:12 Europe/Berlin] configData 
+[21-Sep-2018 15:01:12 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:12 Europe/Berlin] configData 
+[21-Sep-2018 15:01:13 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:13 Europe/Berlin] configData 
+[21-Sep-2018 15:01:13 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:13 Europe/Berlin] configData 
+[21-Sep-2018 15:01:13 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:13 Europe/Berlin] configData 
+[21-Sep-2018 15:01:13 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:14 Europe/Berlin] configData 
+[21-Sep-2018 15:01:14 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:14 Europe/Berlin] configData 
+[21-Sep-2018 15:01:14 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:14 Europe/Berlin] configData 
+[21-Sep-2018 15:01:14 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:14 Europe/Berlin] configData 
+[21-Sep-2018 15:01:15 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:15 Europe/Berlin] configData 
+[21-Sep-2018 15:01:15 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:15 Europe/Berlin] configData 
+[21-Sep-2018 15:01:15 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:15 Europe/Berlin] configData 
+[21-Sep-2018 15:01:15 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:15 Europe/Berlin] configData 
+[21-Sep-2018 15:01:47 Europe/Berlin] Config Writable 1
+[21-Sep-2018 15:01:47 Europe/Berlin] Config Exists 1
+[21-Sep-2018 15:01:48 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:48 Europe/Berlin] configData 
+[21-Sep-2018 15:01:49 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:49 Europe/Berlin] configData 
+[21-Sep-2018 15:01:50 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:50 Europe/Berlin] configData 
+[21-Sep-2018 15:01:50 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:50 Europe/Berlin] configData 
+[21-Sep-2018 15:01:50 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:50 Europe/Berlin] configData 
+[21-Sep-2018 15:01:50 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:50 Europe/Berlin] configData 
+[21-Sep-2018 15:01:50 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:51 Europe/Berlin] configData 
+[21-Sep-2018 15:01:51 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:51 Europe/Berlin] configData 
+[21-Sep-2018 15:01:51 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:51 Europe/Berlin] configData 
+[21-Sep-2018 15:01:51 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:51 Europe/Berlin] configData 
+[21-Sep-2018 15:01:51 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:01:51 Europe/Berlin] configData 
+[21-Sep-2018 15:03:35 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:03:35 Europe/Berlin] configData 
+[21-Sep-2018 15:03:35 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:03:35 Europe/Berlin] configData 
+[21-Sep-2018 15:03:35 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:03:35 Europe/Berlin] configData 
+[21-Sep-2018 15:03:37 Europe/Berlin] Config Writable 1
+[21-Sep-2018 15:03:37 Europe/Berlin] Config Exists 1
+[21-Sep-2018 15:03:38 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:03:38 Europe/Berlin] configData 
+[21-Sep-2018 15:03:39 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:03:39 Europe/Berlin] configData 
+[21-Sep-2018 15:03:39 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:03:39 Europe/Berlin] configData 
+[21-Sep-2018 15:03:39 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:03:39 Europe/Berlin] configData 
+[21-Sep-2018 15:03:39 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:03:39 Europe/Berlin] configData 
+[21-Sep-2018 15:03:39 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:03:39 Europe/Berlin] configData 
+[21-Sep-2018 15:03:40 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:03:40 Europe/Berlin] configData 
+[21-Sep-2018 15:04:06 Europe/Berlin] Config Writable 1
+[21-Sep-2018 15:04:06 Europe/Berlin] Config Exists 1
+[21-Sep-2018 15:04:07 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:04:07 Europe/Berlin] configData 
+[21-Sep-2018 15:04:08 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:04:08 Europe/Berlin] configData 
+[21-Sep-2018 15:04:08 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:04:08 Europe/Berlin] configData 
+[21-Sep-2018 15:04:08 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:04:08 Europe/Berlin] configData 
+[21-Sep-2018 15:05:13 Europe/Berlin] Config Writable 1
+[21-Sep-2018 15:05:13 Europe/Berlin] Config Exists 1
+[21-Sep-2018 15:05:15 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:05:15 Europe/Berlin] configData 
+[21-Sep-2018 15:06:44 Europe/Berlin] Config Writable 1
+[21-Sep-2018 15:06:44 Europe/Berlin] Config Exists 1
+[21-Sep-2018 15:06:46 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:06:46 Europe/Berlin] configData 
+[21-Sep-2018 15:07:55 Europe/Berlin] Config Writable 1
+[21-Sep-2018 15:07:55 Europe/Berlin] Config Exists 1
+[21-Sep-2018 15:08:02 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:08:02 Europe/Berlin] configData 
+[21-Sep-2018 15:08:02 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function NewADOConnection() in C:\xampp7\htdocs\install_module_dev\app\install\submit.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp7\htdocs\install_module_dev\app\install\submit.php on line 24
+[21-Sep-2018 15:08:53 Europe/Berlin] Config Writable 1
+[21-Sep-2018 15:08:53 Europe/Berlin] Config Exists 1
+[21-Sep-2018 15:08:57 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:08:57 Europe/Berlin] configData 
+[21-Sep-2018 15:08:58 Europe/Berlin] Could not connect: Access denied for user ''@'localhost' to database 'installmoduledb'
+[21-Sep-2018 15:10:34 Europe/Berlin] Config Writable 1
+[21-Sep-2018 15:10:34 Europe/Berlin] Config Exists 1
+[21-Sep-2018 15:11:07 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:11:07 Europe/Berlin] configData 
+[21-Sep-2018 15:11:07 Europe/Berlin] Could not connect: Unknown database 'installmoduledb'
+[21-Sep-2018 15:11:46 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:11:46 Europe/Berlin] configData 
+[21-Sep-2018 15:11:46 Europe/Berlin] Number of tables:0
+[21-Sep-2018 15:11:51 Europe/Berlin] isConfigFileExists 1
+[21-Sep-2018 15:11:51 Europe/Berlin] configData 
+[21-Sep-2018 15:11:51 Europe/Berlin] Number of tables:0
+[22-Sep-2018 12:11:36 Europe/Berlin] Config Writable 1
+[22-Sep-2018 12:11:36 Europe/Berlin] Config Exists 1
+[22-Sep-2018 12:11:42 Europe/Berlin] isConfigFileExists 1
+[22-Sep-2018 12:11:42 Europe/Berlin] configData 
+[22-Sep-2018 12:11:43 Europe/Berlin] Could not connect: Access denied for user ''@'localhost' to database 'installmoduledb'
+[22-Sep-2018 18:20:59 Europe/Berlin] Config Writable 1
+[22-Sep-2018 18:20:59 Europe/Berlin] Config Exists 1
+[22-Sep-2018 18:32:15 Europe/Berlin] Config Writable 1
+[22-Sep-2018 18:32:15 Europe/Berlin] Config Exists 1
+[22-Sep-2018 18:38:03 Europe/Berlin] isConfigFileExists 1
+[22-Sep-2018 18:38:03 Europe/Berlin] configData 
+[22-Sep-2018 18:38:05 Europe/Berlin] Could not connect: No connection could be made because the target machine actively refused it.
+
+[22-Sep-2018 18:39:04 Europe/Berlin] isConfigFileExists 1
+[22-Sep-2018 18:39:04 Europe/Berlin] configData 
+[22-Sep-2018 18:39:06 Europe/Berlin] Could not connect: No connection could be made because the target machine actively refused it.
+
+[22-Sep-2018 18:47:29 Europe/Berlin] Config Writable 1
+[22-Sep-2018 18:47:29 Europe/Berlin] Config Exists 1
+[22-Sep-2018 18:47:31 Europe/Berlin] isConfigFileExists 1
+[22-Sep-2018 18:47:32 Europe/Berlin] configData 
+[22-Sep-2018 18:47:34 Europe/Berlin] Could not connect: No connection could be made because the target machine actively refused it.
+
+[22-Sep-2018 18:47:56 Europe/Berlin] isConfigFileExists 1
+[22-Sep-2018 18:47:56 Europe/Berlin] configData 
+[22-Sep-2018 18:47:58 Europe/Berlin] Could not connect: No connection could be made because the target machine actively refused it.
+
+[22-Sep-2018 18:48:47 Europe/Berlin] Config Writable 1
+[22-Sep-2018 18:48:47 Europe/Berlin] Config Exists 1
+[22-Sep-2018 18:48:51 Europe/Berlin] isConfigFileExists 1
+[22-Sep-2018 18:48:51 Europe/Berlin] configData 
+[22-Sep-2018 18:48:53 Europe/Berlin] Could not connect: No connection could be made because the target machine actively refused it.
+
+[22-Sep-2018 18:57:08 Europe/Berlin] Config Writable 1
+[22-Sep-2018 18:57:08 Europe/Berlin] Config Exists 1
+[22-Sep-2018 18:57:11 Europe/Berlin] isConfigFileExists 1
+[22-Sep-2018 18:57:11 Europe/Berlin] configData 
+[22-Sep-2018 18:57:14 Europe/Berlin] Could not connect: No connection could be made because the target machine actively refused it.
+
+[24-Sep-2018 13:27:14 Europe/Berlin] Config Writable 1
+[24-Sep-2018 13:27:14 Europe/Berlin] Config Exists 1
+[24-Sep-2018 13:35:06 Europe/Berlin] Config Writable 1
+[24-Sep-2018 13:35:06 Europe/Berlin] Config Exists 1
+[24-Sep-2018 13:35:31 Europe/Berlin] isConfigFileExists 1
+[24-Sep-2018 13:35:31 Europe/Berlin] configData 
+[24-Sep-2018 13:35:31 Europe/Berlin] Could not connect: Unknown database 'installmoduledb'
+[24-Sep-2018 13:37:36 Europe/Berlin] Config Writable 1
+[24-Sep-2018 13:37:36 Europe/Berlin] Config Exists 1
+[24-Sep-2018 13:37:59 Europe/Berlin] isConfigFileExists 1
+[24-Sep-2018 13:37:59 Europe/Berlin] configData 
+[24-Sep-2018 13:37:59 Europe/Berlin] Number of tables:0
+[24-Sep-2018 13:38:36 Europe/Berlin] isConfigFileExists 1
+[24-Sep-2018 13:38:36 Europe/Berlin] configData 
+[24-Sep-2018 13:38:36 Europe/Berlin] Number of tables:0
+[08-Oct-2018 07:49:48 Europe/Berlin] Config Writable 1
+[08-Oct-2018 07:49:48 Europe/Berlin] Config Exists 1
+[08-Oct-2018 08:57:02 Europe/Berlin] Config Writable 1
+[08-Oct-2018 08:57:02 Europe/Berlin] Config Exists 1
