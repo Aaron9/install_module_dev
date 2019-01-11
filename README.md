@@ -1,2 +1,2 @@
 # install_module_dev
-Make environment for php web sites
+Setup environment for php web sites
